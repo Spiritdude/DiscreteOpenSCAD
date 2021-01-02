@@ -10,7 +10,7 @@
 //    See also https://xyzdims.com/discrete-openscad/
 //
 // History:
-// 2021/01/02: 0.0.5: release code finally https://github.com/Spiritdude/DiscreteOpenSCAD
+// 2021/01/02: 0.0.6: release code finally https://github.com/Spiritdude/DiscreteOpenSCAD
 // 2018/12/26: 0.0.4: 3d: dm_extrude_rotate(p,n,start=0,end=360) which allows simple dm_torus()
 // 2018/12/25: 0.0.3: 2d: added dp_translate(), dp_scale(), dp_rotate(), dp_bounds() and dp_center(); 3d: added dm_sphere(), dm_cylinder() and dm_cube(), and dm_translate(), dm_scale(), dm_rotate(), dm_bounds() and dm_center() as well
 // 2018/12/24: 0.0.2: dp_morph() as part of dm_extrude() uses dp_nearest() to find nearby point of two polygons to morph smoothly, morph examples added
